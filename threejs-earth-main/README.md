@@ -1,3 +1,3 @@
 # THREE.js Earth scene
 
-Author: Lidvi
+Author: Lidvitha

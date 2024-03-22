@@ -1,2 +1,3 @@
 # THREE.js Earth scene
-Author: sharan
+
+Author: Lid

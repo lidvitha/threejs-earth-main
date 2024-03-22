@@ -1,3 +1,3 @@
 # THREE.js Earth scene
 
-Author: Lid
+Author: Lidvi
